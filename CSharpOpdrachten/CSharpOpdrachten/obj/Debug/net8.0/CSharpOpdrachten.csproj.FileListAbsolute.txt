@@ -1,0 +1,14 @@
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.exe
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.deps.json
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.runtimeconfig.json
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.dll
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.pdb
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.AssemblyInfoInputs.cache
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.AssemblyInfo.cs
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.csproj.CoreCompileInputs.cache
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.dll
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\refint\CSharpOpdrachten.dll
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.pdb
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.genruntimeconfig.cache
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\ref\CSharpOpdrachten.dll

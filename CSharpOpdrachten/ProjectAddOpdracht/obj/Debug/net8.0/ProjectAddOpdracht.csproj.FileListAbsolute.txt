@@ -1,0 +1,14 @@
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net8.0\ProjectAddOpdracht.exe
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net8.0\ProjectAddOpdracht.deps.json
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net8.0\ProjectAddOpdracht.runtimeconfig.json
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net8.0\ProjectAddOpdracht.dll
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net8.0\ProjectAddOpdracht.pdb
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ProjectAddOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ProjectAddOpdracht.AssemblyInfoInputs.cache
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ProjectAddOpdracht.AssemblyInfo.cs
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ProjectAddOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ProjectAddOpdracht.dll
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\refint\ProjectAddOpdracht.dll
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ProjectAddOpdracht.pdb
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ProjectAddOpdracht.genruntimeconfig.cache
+C:\Users\newne\OneDrive - Mediacollege Amsterdam\ma\Prog 3\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ref\ProjectAddOpdracht.dll
